@@ -57,6 +57,11 @@ Run compiled code
 - **5**: Start the Merge Sort algorithm.
 - **6**: Start the Quick Sort algorithm.
 
+### Demo Video
+
+
+https://github.com/OmKumarIITG/Algorithm-Visualiser/assets/144237457/5b52569d-5907-42d0-9efb-e45efd00ce50
+
 
 ## Acknowledgments
 
